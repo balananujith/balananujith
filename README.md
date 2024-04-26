@@ -33,9 +33,9 @@
 </div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,flutter,tailwind,git,nextjs,mysql,flask,django,sqlite" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java" /><br>
@@ -43,4 +43,6 @@
 
 <br/>
 <hr/>
+
+
 
