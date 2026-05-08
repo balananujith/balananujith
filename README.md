@@ -8,6 +8,18 @@
 
 <br/>
 
+
+
+<div align="center">
+
+🔐 <b>Federated Learning</b> — teaching AI to collaborate without leaking everyone’s data.<br/><br/>
+
+⚡ Because apparently sending all user data to one server and saying  
+<i>“trust me bro, it’s secure”</i>  
+wasn’t the greatest cybersecurity strategy ever invented. 🚀💀
+
+</div>
+
 <div align="center">
  
  🔭 I’m currently working on **Full Stack Development Projects & Machine Learning Projects**
