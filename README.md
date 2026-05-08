@@ -1,20 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=250&section=header&text=ANUJITH%20BALAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Federated%20Learning%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Privacy%20Advocate&descSize=15&descAlignY=68&animation=fadeIn" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=The+model+trains+on+your+data.+Your+data+never+leaves.;Teaching+AI+to+learn+without+spying+since+day+one;Decentralize+the+model%2C+not+just+the+data;Privacy-Preserving+AI+%7C+Zero+data+leaves+your+device;Building+the+future+where+AI+respects+humans" alt="Typing Animation"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=250&section=header&text=ANUJITH%20BALAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Dev%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Headed%20into%20Federated%20Learning&descSize=15&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Wait...+what+is+Federated+Learning%3F+Scroll+down.;I+build+things+that+respect+your+privacy.;Full+Stack+Dev+by+day.+ML+explorer+by+night.;Kerala+born.+Globally+curious.;The+AI+comes+to+your+data.+Not+the+other+way+around." alt="Typing Animation"/>
 
-[![Visits](https://visitor-badge.laobi.icu/badge?page_id=balananujith.visitor-badge&color=6d28d9&labelColor=1e1b4b&label=profile%20visits)](https://github.com/balananujith)&nbsp;&nbsp;
+<br/>
+
+[![Visits](https://visitor-badge.laobi.icu/badge?page_id=balananujith.visitor-badge&color=6d28d9&labelColor=1e1b4b&label=curious+visitors)](https://github.com/balananujith)&nbsp;&nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/balananujith?label=followers&style=flat&color=a78bfa&labelColor=1e1b4b&logo=github)](https://github.com/balananujith)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-a78bfa?style=flat&logo=linkedin&labelColor=1e1b4b)](https://linkedin.com/in/balananujith)&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-reach%20me-a78bfa?style=flat&logo=gmail&labelColor=1e1b4b)](mailto:balananujith@gmail.com)
@@ -25,60 +19,48 @@
 
 <br/>
 
-## 🧠 The Manifesto
+## 👋 So... who even is this guy?
 
 <table>
 <tr>
-<td width="55%">
+<td width="60%">
 
-### Why I build with Federated Learning
+Good question. Let me answer it the only way that makes sense.
 
-In a world where every app wants your data and every server is a breach away from disaster — **Federated Learning is the answer nobody expected.**
+```python
+class AnujithBalan:
+    """
+    Not your average developer.
+    Allergic to boring. Obsessed with privacy.
+    Currently: making AI smarter without
+    making humans more vulnerable.
+    """
+    name        = "Anujith Balan"
+    from_       = "Kerala, India 🇮🇳"
+    building    = ["Full Stack Apps", "ML Projects"]
+    heading_to  = "Federated Learning 🔐"
+    learning    = ["Docker 🐳", "Supabase ⚡", "AWS ☁️"]
+    open_to     = "Collabs, ideas, random DMs"  # True
 
-It flips the entire AI pipeline on its head:
+    fun_fact = "Dark mode > light mode. Always."
+    # (light attracts bugs. this is not a joke.)
 
-- ❌ Old way: *Send your diary to a stranger. Ask them to read it. Trust them not to.*
-- ✅ FL way: *The stranger comes to your house. Learns what they need. Leaves. Remembers the lesson, not your secrets.*
-
-I'm obsessed with building systems where **intelligence and privacy coexist** — not as a tradeoff, but as a design principle.
-
-> *"What if we could make AI smarter without making humans more vulnerable?"*
->
-> — That question keeps me up at night. 🌙
+    def philosophy(self):
+        return "The AI should come to your data. \
+                Not the other way around."
+```
 
 </td>
-<td width="45%">
+<td width="40%" align="center">
 
 ```
-╔═══════════════════════════════╗
-║    TRADITIONAL AI PIPELINE    ║
-╠═══════════════════════════════╣
-║  📱 User Data                 ║
-║       │                       ║
-║       ▼                       ║
-║  ☁️  Central Server           ║
-║  (your data lives here now)   ║
-║       │                       ║
-║       ▼                       ║
-║  🤖 Model (trained on YOU)    ║
-║                               ║
-║  Trust level: "trust me bro" ║
-╚═══════════════════════════════╝
-
-╔═══════════════════════════════╗
-║    FEDERATED AI PIPELINE      ║
-╠═══════════════════════════════╣
-║  📱 Your Device               ║
-║  (data NEVER leaves) 🔒       ║
-║       │                       ║
-║       │  only Δweights        ║
-║       ▼                       ║
-║  ☁️  Aggregator               ║
-║  (sees math, not memories)    ║
-║       │                       ║
-║       ▼                       ║
-║  🤖 Smarter Global Model ✅   ║
-╚═══════════════════════════════╝
+ 🔭  Working on Full Stack + ML Projects
+ 🌱  Learning Docker · Supabase · AWS
+ 🔐  Exploring Federated Learning
+ 🤝  Open to collaborations
+ 💬  Ask me anything →
+     github.com/balananujith/issues
+ ⚡  Fun fact: Light attracts bugs 🐛
 ```
 
 </td>
@@ -89,79 +71,74 @@ I'm obsessed with building systems where **intelligence and privacy coexist** �
 
 <br/>
 
-## 💻 Who I Am, In Code
+## 🤔 Wait — Federated Learning? What's that?
 
-```python
-#!/usr/bin/env python3
-# ─────────────────────────────────────────────────
-#  ANUJITH BALAN  ·  Kerala, India 🇮🇳
-# ─────────────────────────────────────────────────
+> *You've probably heard: "AI needs your data to learn."*
+> *What if that was never actually true?*
 
-class AnujithBalan:
-    """
-    Software Developer · FL Researcher · Problem Solver
+<table>
+<tr>
+<td width="50%" align="center">
 
-    Core belief: Intelligence should not cost privacy.
-    """
+### ❌ How AI usually works
 
-    name       : str  = "Anujith Balan"
-    location   : str  = "Kerala, India 🇮🇳"
-    available  : bool = True   # open to collaborations!
-
-    research_focus = [
-        "Federated Learning",
-        "Privacy-Preserving ML",
-        "Secure Aggregation Protocols",
-        "Differential Privacy",
-    ]
-
-    current_stack = {
-        "frontend"  : ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        "backend"   : ["Node.js", "Express", "Django", "Flask"],
-        "ml"        : ["PyTorch", "TensorFlow", "scikit-learn", "OpenCV"],
-        "databases" : ["MongoDB", "Firebase", "MySQL", "SQLite"],
-        "infra"     : ["Docker", "AWS", "Linux", "Git"],
-    }
-
-    learning_now = ["Docker 🐳", "Supabase ⚡", "AWS ☁️"]
-
-    @staticmethod
-    def philosophy() -> str:
-        return """
-        The old model: ship user data to a server. Cross fingers. 🤞
-        My model:      ship the AI to the user's data instead.    🚀
-
-        Because 'trust me bro, it's secure' was never
-        a real cybersecurity strategy. 💀
-        """
-
-    @staticmethod
-    def fun_fact() -> str:
-        return "Why do programmers prefer dark mode? Light attracts bugs! 🐛"
-
-    def contact(self) -> dict[str, str]:
-        return {
-            "email"   : "balananujith@gmail.com",
-            "github"  : "github.com/balananujith",
-            "linkedin": "linkedin.com/in/balananujith",
-        }
-
-
-if __name__ == "__main__":
-    me = AnujithBalan()
-    print(me.philosophy())
-    # → Let's build privacy-respecting AI together.
 ```
+  Your phone
+      │
+      │  sends your data
+      ▼
+  Big Server
+  (your photos, texts,
+   habits... all there)
+      │
+      ▼
+  Smarter AI
+  (trained on YOU)
+
+  Trust level:
+  "trust me bro" 💀
+```
+
+</td>
+<td width="50%" align="center">
+
+### ✅ How Federated Learning works
+
+```
+  Your phone
+  (trains locally 🔒)
+      │
+      │  sends only math
+      │  (no raw data!)
+      ▼
+  Aggregator
+  (sees equations,
+   not your secrets)
+      │
+      ▼
+  Smarter AI ✅
+  + Your privacy ✅
+
+  Trust level: verified 🔐
+```
+
+</td>
+</tr>
+</table>
+
+**The short version:** Your data stays on your device. The AI learns from everyone, everywhere — without seeing anyone's actual data. It's how Google Keyboard learns your typing style without Google ever reading your messages.
+
+*Pretty wild, right? That's the rabbit hole I'm going down. 🐇*
 
 ---
 
 <br/>
 
-## ⚒️ Arsenal
+## 💻 The Arsenal
 
 <div align="center">
 
-### 🤖 ML · AI · Federated Learning
+### 🤖 ML · AI
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=a78bfa)
 ![PyTorch](https://img.shields.io/badge/PyTorch-20232A?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-20232A?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
@@ -169,7 +146,7 @@ if __name__ == "__main__":
 ![OpenCV](https://img.shields.io/badge/OpenCV-20232A?style=for-the-badge&logo=opencv&logoColor=a78bfa)
 ![Anaconda](https://img.shields.io/badge/Anaconda-20232A?style=for-the-badge&logo=anaconda&logoColor=a78bfa)
 
-### 🌐 Frontend · UI
+### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=a78bfa)
 ![Next.js](https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=a78bfa)
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=a78bfa)
@@ -200,7 +177,7 @@ if __name__ == "__main__":
 
 <br/>
 
-## 📊 GitHub In Numbers
+## 📊 By the numbers
 
 <div align="center">
 
@@ -221,95 +198,30 @@ if __name__ == "__main__":
 
 <br/>
 
-## 🏥 Real-World FL Impact: Why This Matters Beyond Academia
-
-<table>
-<tr>
-<th>🏥 Healthcare</th>
-<th>📱 Mobile Keyboards</th>
-<th>🏦 Finance</th>
-<th>🚗 Autonomous Cars</th>
-</tr>
-<tr>
-<td>
-
-Hospitals collaboratively train cancer-detection models **without sharing a single patient record**.
-
-Each hospital trains locally. Shares only weight updates. The global model becomes as good as if it had seen all data centrally.
-
-**Patient privacy: 100% intact ✅**
-
-</td>
-<td>
-
-Your phone's keyboard predicts your next word by training **on-device only**.
-
-GBoard was one of the first FL deployments at scale — millions of phones, zero user messages sent to Google's servers.
-
-**Your texts stay yours ✅**
-
-</td>
-<td>
-
-Banks detect fraud patterns across institutions **without revealing transaction data** to competitors or regulators.
-
-A model trained on federated data across 10 banks is far more robust than any single bank's model.
-
-**Financial data stays siloed ✅**
-
-</td>
-<td>
-
-Cars share learned driving patterns — road anomalies, edge cases, rare events — **without uploading video footage** of you driving.
-
-Each car improves the fleet. The fleet improves each car. Nobody stores your commute.
-
-**Location data stays local ✅**
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## 📬 Let's Build Something Private & Powerful
+## 🤝 Got an idea? Let's talk.
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│   Got an idea that needs privacy-preserving AI?              │
-│   Building something where data sensitivity matters?         │
-│   Just want to geek out about federated learning?            │
-│                                                              │
-│   → Hit me up. I'm always down to collaborate. 🤝            │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
+*I'm into collabs, interesting problems, and conversations that start with "hear me out..."*
 
 <br/>
 
-[![Email](https://img.shields.io/badge/📧%20balananujith@gmail.com-1e1b4b?style=for-the-badge&logoColor=white)](mailto:balananujith@gmail.com)
+[![Email](https://img.shields.io/badge/📧%20Email%20me-1e1b4b?style=for-the-badge&logoColor=white)](mailto:balananujith@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-1e1b4b?style=for-the-badge)](https://linkedin.com/in/balananujith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lets%20connect-1e1b4b?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/balananujith)
 &nbsp;
-[![GitHub Issues](https://img.shields.io/badge/💬%20Open%20an%20Issue-1e1b4b?style=for-the-badge)](https://github.com/balananujith/balananujith/issues)
+[![GitHub Issues](https://img.shields.io/badge/Open%20an%20Issue-ask%20me%20anything-1e1b4b?style=for-the-badge&logo=github)](https://github.com/balananujith/balananujith/issues)
 
 <br/>
 
-*"Ask me about Node.js · React · Firebase · Federated Learning · Privacy ML"*
+*Ask me about → Node.js · React · Firebase · ML · or why Federated Learning is lowkey the most important idea in AI right now*
 
 </div>
 
 ---
 
-<br/>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=130&section=footer&text=Privacy%20is%20not%20a%20feature.%20It%27s%20a%20right.&fontSize=18&fontColor=e9d5ff&fontAlignY=65&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=130&section=footer&text=Privacy%20is%20not%20a%20feature.%20It%27s%20a%20right.&fontSize=16&fontColor=e9d5ff&fontAlignY=65&animation=twinkling"/>
 
 </div>
