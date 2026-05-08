@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4c1d95&height=250&section=header&text=ANUJITH%20BALAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Federated%20Learning%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Privacy%20Advocate&descSize=15&descAlignY=68&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=250&section=header&text=ANUJITH%20BALAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Federated%20Learning%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Privacy%20Advocate&descSize=15&descAlignY=68&animation=fadeIn" />
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6d28d9,50:7c3aed,100:4c1d95&height=250&section=header&text=ANUJITH%20BALAN&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=Federated%20Learning%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Privacy%20Advocate&descSize=15&descAlignY=68&animation=fadeIn&stroke=a78bfa&strokeWidth=2" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=The+model+trains+on+your+data.+Your+data+never+leaves.;Teaching+AI+to+learn+without+spying+since+day+one;Decentralize+the+model%2C+not+just+the+data;Privacy-Preserving+AI+%7C+Zero+data+leaves+your+device;Building+the+future+where+AI+respects+humans" alt="Typing Animation"/>
+
 </div>
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=The+model+trains+on+your+data.+Your+data+never+leaves.;Teaching+AI+to+learn+without+spying+since+day+one;Decentralize+the+model%2C+not+just+the+data;Privacy-Preserving+AI+%7C+Zero+data+leaves+your+device;Building+the+future+where+AI+respects+humans" alt="Typing Animation"/>
-</div>
+
 <br/>
 
 <div align="center">
