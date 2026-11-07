@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,40:4c1d95,100:a78bfa&height=300&section=header&text=ANUJITH%20BALAN&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8E%A5%20watch%20%E2%80%A2%20%F0%9F%8E%99%EF%B8%8F%20listen%20%E2%80%A2%20%F0%9F%93%9D%20read%20%E2%80%A2%20%F0%9F%A7%A0%20understand&descSize=20&descAlignY=62&animation=twinkling" />
+<img src="./assets/banner.svg" alt="Anujith Balan: I teach AI to watch, listen and read Malayalam videos" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=%24+booting+anujith.exe+...;%5B+OK+%5D+Python+loaded+%F0%9F%90%8D;%5B+OK+%5D+Curiosity+at+100%25+%E2%9A%A1;%5B+OK+%5D+Malayalam+AI+module+online+%F0%9F%8E%A5;Hi.+I+teach+machines+to+catch+sarcasm.+%F0%9F%99%8C" alt="boot sequence"/>
 
-<br/><br/>
+<br/>
 
 <a href="mailto:balananujith@gmail.com"><img src="https://img.shields.io/badge/📧_Email-balananujith@gmail.com-7c3aed?style=for-the-badge&labelColor=1e1b4b"/></a>
 <a href="https://linkedin.com/in/balananujith"><img src="https://img.shields.io/badge/LinkedIn-say_hi-7c3aed?style=for-the-badge&logo=linkedin&labelColor=1e1b4b"/></a>
@@ -12,18 +12,68 @@
 
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 🎯 PICK YOUR PLAYER
+
+Short on time? Open the one that sounds like you. 👇
+
+<details>
+<summary><b>🧑‍💼 I'm a recruiter / hiring manager</b></summary>
+
 <br/>
 
-<div align="center">
+**10-second version:**
+- 🎓 M.Tech CSE student at Pondicherry University (2025 to 2027), B.Tech CSE from UCE Kariavattom (2024)
+- 🐍 Python first, plus C++, C, Java, JavaScript
+- 🤖 Hands-on with ML, deep learning (CNNs), NLP and multimodal AI
+- 💼 ML Intern at iNeuron, HackerRank Software Engineer Intern certified
+- 👑 Led student teams on two projects and shipped both
+- 🥇 Medal + Best Performer certificate at the Smart India Hackathon internal round (team)
+- 📬 Open to software and AI roles: [balananujith@gmail.com](mailto:balananujith@gmail.com)
 
-### ⚡ TL;DR
+</details>
 
-**M.Tech CSE @ Pondicherry University** 🎓 · **Kerala born** 🌴 · **Python first** 🐍
-**Building:** an AI that watches Malayalam videos and knows when someone is *not* being nice 😏
+<details>
+<summary><b>🤝 I'm a collaborator / researcher</b></summary>
 
-</div>
+<br/>
 
----
+I'm working on **multimodal hate and offensive content detection for Malayalam videos**, combining text, speech and visuals, with an **uncertainty-aware fusion** step that sends shaky predictions to humans.
+
+Into low-resource language AI, video understanding or human-in-the-loop systems? Let's talk. 💬
+
+</details>
+
+<details>
+<summary><b>🎓 I'm a student who wants to learn</b></summary>
+
+<br/>
+
+Start here:
+1. 📊 Build something visual (my Algorithm Visualizer taught me more than any textbook)
+2. 🎬 Make a small recommender app with Flask
+3. 🧠 Then try a CNN on video frames
+
+Ask me anything, I like explaining things with analogies. 🙌
+
+</details>
+
+<details>
+<summary><b>🍔 Secret menu</b></summary>
+
+<br/>
+
+```bash
+$ sudo hire anujith
+[sudo] password for recruiter: ********
+✔ Permission granted.
+✔ Next step: email balananujith@gmail.com
+```
+
+</details>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🎮 CHARACTER SHEET
 
@@ -51,34 +101,22 @@
 ╚════════════════════════════════════════════════════╝
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🔥 BOSS FIGHT: MalHate-MM
 
 > *Hate speech doesn't always shout. Sometimes it smiles and says the opposite of what it means.*
 
-Most detectors only **read** text. But a video says things in **three ways at once**: words, voice, and what's on screen. Sarcasm hides in the gap between them.
+Most detectors only **read** text. But a video speaks in **three ways at once**: words, voice, and what's on screen. Sarcasm hides in the gap between them.
 
-So my system uses all three. 👇
+<div align="center">
 
-```mermaid
-flowchart LR
-    A(["🎥 Malayalam video"]) --> B["📝 Text<br/>what is said"]
-    A --> C["🎙️ Speech<br/>how it's said"]
-    A --> D["👁️ Visuals<br/>what you see"]
-    B --> E{{"🧠 Uncertainty-aware<br/>fusion"}}
-    C --> E
-    D --> E
-    E -->|"😎 confident"| F["✅ Auto label"]
-    E -->|"🤔 not sure"| G["🙋 Human review"]
-    style A fill:#4c1d95,color:#fff,stroke:#a78bfa
-    style E fill:#6d28d9,color:#fff,stroke:#c4b5fd
-    style F fill:#065f46,color:#fff,stroke:#34d399
-    style G fill:#92400e,color:#fff,stroke:#fbbf24
-```
+<img src="./assets/fusion.svg" alt="MalHate-MM pipeline: text, speech and visuals go into a fusion model that either auto-labels or sends the clip to human review" width="100%"/>
+
+</div>
 
 **Think of it like a courtroom ⚖️**
-Three witnesses (text, speech, visuals) give statements. The judge (fusion model) weighs them. If they disagree and the judge isn't sure, the case goes to a human instead of a guess.
+Three witnesses (text, speech, visuals) give statements. The judge (the fusion model) weighs them. If they disagree and the judge isn't sure, the case goes to a human instead of a guess.
 
 <details>
 <summary><b>🕵️ Click to try: can YOU spot the sarcasm?</b></summary>
@@ -94,7 +132,7 @@ Their face is flat. Their voice is dripping with annoyance. The clip shows a 3-h
 - 👁️ **Video says:** nope 🙃
 
 A text-only model says "nice review!" 🤦
-A multimodal model catches that the three signals disagree.
+A multimodal model notices the three signals disagree.
 
 **That mismatch is exactly what MalHate-MM is built to find, in Malayalam.**
 
@@ -105,7 +143,7 @@ A multimodal model catches that the three signals disagree.
 - 🧠 An **uncertainty-aware fusion framework**
 - 🙋 A **human-in-the-loop** step for low-confidence clips
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🗺️ SIDE QUESTS
 
@@ -161,7 +199,7 @@ Tell it what you like, it picks what's next.
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🧰 INVENTORY
 
@@ -192,41 +230,29 @@ Tell it what you like, it picks what's next.
 ![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=c4b5fd)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd)
 
-</div>
-
-<div align="center">
-
 🧠 **Core stuff:** DSA · OOP · Operating Systems · Computer Networks · DBMS · SDLC · MVC
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🛤️ THE JOURNEY SO FAR
+## 📜 PATCH NOTES
 
-```mermaid
-flowchart LR
-    A["🎓 2020<br/>B.Tech CSE<br/>UCE Kariavattom"] --> B["🥇 SIH<br/>Medal + Best<br/>Performer"]
-    B --> C["💼 Aug–Nov 2023<br/>ML Intern<br/>iNeuron"]
-    C --> D["🏅 Jun 2024<br/>HackerRank<br/>SWE Intern Cert"]
-    D --> E["🎓 2025<br/>M.Tech CSE<br/>Pondicherry Univ"]
-    E --> F["🎥 Now<br/>MalHate-MM"]
-    style A fill:#312e81,color:#fff,stroke:#a78bfa
-    style B fill:#312e81,color:#fff,stroke:#a78bfa
-    style C fill:#4c1d95,color:#fff,stroke:#a78bfa
-    style D fill:#4c1d95,color:#fff,stroke:#a78bfa
-    style E fill:#6d28d9,color:#fff,stroke:#c4b5fd
-    style F fill:#7c3aed,color:#fff,stroke:#ddd6fe
+```diff
+# anujith.changelog
+
++ v2020  Started B.Tech CSE at University College of Engineering, Kariavattom
++ v2023  Data Science workshop at NIT Calicut
++ v2023  ML Intern at iNeuron (Aug to Nov): shipped a Book Recommendation System
++ v2023  Smart India Hackathon internal round: medal + Best Performer (team)
++ v2024  HackerRank Software Engineer Intern certification (June)
++ v2024  Graduated B.Tech, shipped Video Truth Sentinel as team leader
++ v2025  Started M.Tech CSE at Pondicherry University
++ v2025  Launched MalHate-MM, still in active development
+
+- known issue: AI models that miss sarcasm
+! patch in progress: multimodal fusion + human review
 ```
-
-<details>
-<summary><b>💼 What I did at iNeuron</b></summary>
-
-<br/>
-
-Machine Learning Intern (Aug – Nov 2023). Built a **Book Recommendation System** using machine learning algorithms.
-
-</details>
 
 <details>
 <summary><b>🛠️ Workshops I've leveled up in</b></summary>
@@ -249,7 +275,7 @@ Member of the **National Service Scheme (NSS)**, doing community service activit
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 🏆 TROPHY SHELF
 
@@ -268,7 +294,7 @@ Member of the **National Service Scheme (NSS)**, doing community service activit
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 ## 📡 SIGNAL ME
 
