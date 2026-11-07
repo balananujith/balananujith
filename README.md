@@ -1,108 +1,161 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=250&section=header&text=ANUJITH%20BALAN&fontSize=70&fontColor=ffffff&fontAlignY=42&desc=Teaching%20AI%20to%20watch%2C%20listen%20%26%20understand%20Malayalam%20videos&descSize=17&descAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1e1b4b,40:4c1d95,100:a78bfa&height=300&section=header&text=ANUJITH%20BALAN&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=%F0%9F%8E%A5%20watch%20%E2%80%A2%20%F0%9F%8E%99%EF%B8%8F%20listen%20%E2%80%A2%20%F0%9F%93%9D%20read%20%E2%80%A2%20%F0%9F%A7%A0%20understand&descSize=20&descAlignY=62&animation=twinkling" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=A78BFA&center=true&vCenter=true&width=720&lines=M.Tech+CSE+%40+Pondicherry+University+%F0%9F%8E%93;Building+AI+that+catches+sarcasm+in+Malayalam+videos+%F0%9F%8E%A5;Python+first.+Curiosity+always.;When+the+AI+is+unsure%2C+a+human+decides.+%F0%9F%A4%9D;Kerala+born.+Globally+curious." alt="Typing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=760&height=50&lines=%24+booting+anujith.exe+...;%5B+OK+%5D+Python+loaded+%F0%9F%90%8D;%5B+OK+%5D+Curiosity+at+100%25+%E2%9A%A1;%5B+OK+%5D+Malayalam+AI+module+online+%F0%9F%8E%A5;Hi.+I+teach+machines+to+catch+sarcasm.+%F0%9F%99%8C" alt="boot sequence"/>
+
+<br/><br/>
+
+<a href="mailto:balananujith@gmail.com"><img src="https://img.shields.io/badge/📧_Email-balananujith@gmail.com-7c3aed?style=for-the-badge&labelColor=1e1b4b"/></a>
+<a href="https://linkedin.com/in/balananujith"><img src="https://img.shields.io/badge/LinkedIn-say_hi-7c3aed?style=for-the-badge&logo=linkedin&labelColor=1e1b4b"/></a>
+<a href="https://github.com/balananujith"><img src="https://img.shields.io/github/followers/balananujith?style=for-the-badge&logo=github&color=7c3aed&labelColor=1e1b4b"/></a>
+
+</div>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-balananujith%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1b4b)](mailto:balananujith@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-let's%20connect-a78bfa?style=for-the-badge&logo=linkedin&labelColor=1e1b4b)](https://linkedin.com/in/balananujith)
-[![GitHub followers](https://img.shields.io/github/followers/balananujith?style=for-the-badge&logo=github&color=a78bfa&labelColor=1e1b4b)](https://github.com/balananujith)
+<div align="center">
+
+### ⚡ TL;DR
+
+**M.Tech CSE @ Pondicherry University** 🎓 · **Kerala born** 🌴 · **Python first** 🐍
+**Building:** an AI that watches Malayalam videos and knows when someone is *not* being nice 😏
 
 </div>
 
 ---
 
-## 🪪 Player Card
+## 🎮 CHARACTER SHEET
 
-```python
-class AnujithBalan:
-    role      = "M.Tech CSE student · AI builder"
-    campus    = "Pondicherry University (2025 – 2027)"
-    origin    = "Kerala, India 🇮🇳"
-    main_lang = "Python 🐍"          # C++, C, Java, JS on the bench
-    speaks    = ["English", "Malayalam", "Hindi", "Tamil (beginner)"]
-    superpower = "Turning messy video, audio & text into something a model can understand"
-    current_quest = "MalHate-MM 🎥"
-    status    = "Open to internships, collabs & good problems"
+<div align="center">
+
+| 🧙 CLASS | 🌍 HOME BASE | 🗣️ LANGUAGES UNLOCKED |
+|:---:|:---:|:---:|
+| **AI Builder** | Kerala, India 🇮🇳 | English · Malayalam · Hindi · Tamil *(beginner)* |
+
+</div>
+
+```text
+╔════════════════════════════════════════════════════╗
+║  ANUJITH BALAN                      LVL: M.Tech 🎓 ║
+╠════════════════════════════════════════════════════╣
+║  🐍 Python ............ ▰▰▰▰▰▰▰▰▰▰  MAIN WEAPON    ║
+║  🧠 ML / Deep Learning  ▰▰▰▰▰▰▰▰▱▱                 ║
+║  👁️ Video + CNN ....... ▰▰▰▰▰▰▰▰▱▱                 ║
+║  🗣️ NLP ............... ▰▰▰▰▰▰▰▱▱▱                 ║
+║  ⚙️ C++ / Java / JS ... ▰▰▰▰▰▰▱▱▱▱                 ║
+║  🌐 Flask / Django .... ▰▰▰▰▰▰▱▱▱▱                 ║
+║  ☕ Dark mode ......... ▰▰▰▰▰▰▰▰▰▰  (light = bugs 🐛)║
+╠════════════════════════════════════════════════════╣
+║  QUEST LOG: MalHate-MM 🎥          STATUS: ACTIVE  ║
+╚════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🔥 Main Quest: MalHate-MM
+## 🔥 BOSS FIGHT: MalHate-MM
 
-> *Hate speech doesn't always shout. Sometimes it smiles, jokes, and says the opposite of what it means.*
+> *Hate speech doesn't always shout. Sometimes it smiles and says the opposite of what it means.*
 
-Most detectors only read text. But a Malayalam video can say one thing in words, another in tone, and something else on screen. **Sarcasm lives in that gap.**
+Most detectors only **read** text. But a video says things in **three ways at once**: words, voice, and what's on screen. Sarcasm hides in the gap between them.
 
-So I'm building a system that watches, listens and reads, all at once. 👇
+So my system uses all three. 👇
 
 ```mermaid
 flowchart LR
-    A[🎥 Malayalam video] --> B[📝 Text]
-    A --> C[🎙️ Speech]
-    A --> D[👁️ Visuals]
-    B --> E{{🧠 Uncertainty-aware fusion}}
+    A(["🎥 Malayalam video"]) --> B["📝 Text<br/>what is said"]
+    A --> C["🎙️ Speech<br/>how it's said"]
+    A --> D["👁️ Visuals<br/>what you see"]
+    B --> E{{"🧠 Uncertainty-aware<br/>fusion"}}
     C --> E
     D --> E
-    E -->|confident| F[✅ Auto label]
-    E -->|not sure| G[🙋 Human review]
+    E -->|"😎 confident"| F["✅ Auto label"]
+    E -->|"🤔 not sure"| G["🙋 Human review"]
+    style A fill:#4c1d95,color:#fff,stroke:#a78bfa
+    style E fill:#6d28d9,color:#fff,stroke:#c4b5fd
+    style F fill:#065f46,color:#fff,stroke:#34d399
+    style G fill:#92400e,color:#fff,stroke:#fbbf24
 ```
 
-**Think of it like a courtroom 🧑‍⚖️** Three witnesses (text, speech, visuals) give their statements. The judge (fusion model) weighs them. If the witnesses disagree and the judge isn't sure, the case goes to a human instead of guessing.
+**Think of it like a courtroom ⚖️**
+Three witnesses (text, speech, visuals) give statements. The judge (fusion model) weighs them. If they disagree and the judge isn't sure, the case goes to a human instead of a guess.
 
-- 🎬 Creating a **labelled Malayalam video dataset**
-- 🧠 Designing an **uncertainty-aware fusion framework**
-- 🙋 Low-confidence clips get **routed to human review**
-- 🎯 Target: the hard cases, like sarcasm
+<details>
+<summary><b>🕵️ Click to try: can YOU spot the sarcasm?</b></summary>
+
+<br/>
+
+Someone posts a video with the caption **"Wow, amazing service 👏"**
+
+Their face is flat. Their voice is dripping with annoyance. The clip shows a 3-hour queue.
+
+- 📝 **Text says:** positive ✅
+- 🎙️ **Voice says:** angry 😒
+- 👁️ **Video says:** nope 🙃
+
+A text-only model says "nice review!" 🤦
+A multimodal model catches that the three signals disagree.
+
+**That mismatch is exactly what MalHate-MM is built to find, in Malayalam.**
+
+</details>
+
+**What I'm building:**
+- 🎬 A **labelled Malayalam video dataset**
+- 🧠 An **uncertainty-aware fusion framework**
+- 🙋 A **human-in-the-loop** step for low-confidence clips
 
 ---
 
-## 🗺️ Side Quests
+## 🗺️ SIDE QUESTS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🕵️ Video Truth Sentinel
-**B.Tech Major Project · Team Leader**
+`MISSION: catch the fakes` · ✅ **COMPLETED**
 
-CNN-based system that checks videos **frame by frame** to spot fake or manipulated content. Led the team end to end: split tasks, tracked progress, shipped it.
+CNN system that checks videos **frame by frame** for fake or manipulated content.
+I led the team: split tasks, tracked progress, shipped it end to end.
 
 `CNN` `Deep Learning` `Video Analysis`
+**Role:** 👑 Team Leader · B.Tech Major
 
 </td>
 <td width="50%" valign="top">
 
 ### 📺 YouTube Video Summarizer
-**GenAI tool**
+`MISSION: skip the 40 min intro` · ✅ **COMPLETED**
 
-Paste a video, get a short summary. Pulls the transcript and lets Gemini do the condensing. Saves you from the 40-minute intro.
+Paste a video, get a short summary. Grabs the transcript, lets Gemini do the squeezing.
 
 `Python` `Gemini API` `YouTube Transcript API`
+**Type:** 🤖 GenAI tool
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Sorting & Searching Visualizer
-**B.Tech Mini Project · Team Leader**
+### 📊 Algorithm Visualizer
+`MISSION: make sorting watchable` · ✅ **COMPLETED**
 
-Desktop app that shows every step of sorting and searching algorithms. Adjustable array size, plus pause, resume and reset.
+Desktop app that shows every step of sorting and searching. Change array size, pause, resume, reset.
 
 `Python` `Tkinter`
+**Role:** 👑 Team Leader · B.Tech Mini
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Movie Recommendation System
-**Web app**
+### 🎬 Movie Recommender
+`MISSION: end "what do we watch?"` · ✅ **COMPLETED**
 
-Tell it what you like, it suggests what to watch next.
+Tell it what you like, it picks what's next.
 
 `Python` `Flask` `HTML` `CSS` `JS`
+**Type:** 🌐 Web app
 
 </td>
 </tr>
@@ -110,88 +163,126 @@ Tell it what you like, it suggests what to watch next.
 
 ---
 
-## 🧰 Inventory
+## 🧰 INVENTORY
 
 <div align="center">
 
-### 🤖 AI · ML
-![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=a78bfa)
-![TensorFlow](https://img.shields.io/badge/CNN%20Deep%20Learning-20232A?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
-![scikit-learn](https://img.shields.io/badge/Machine%20Learning-20232A?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa)
-![NLP](https://img.shields.io/badge/NLP-20232A?style=for-the-badge&logoColor=a78bfa)
-![Multimodal](https://img.shields.io/badge/Multimodal%20Models-20232A?style=for-the-badge&logoColor=a78bfa)
-![OCR](https://img.shields.io/badge/OCR-20232A?style=for-the-badge&logoColor=a78bfa)
-![Gemini](https://img.shields.io/badge/Gemini%20API-20232A?style=for-the-badge&logo=googlegemini&logoColor=a78bfa)
+![Python](https://img.shields.io/badge/Python-1e1b4b?style=for-the-badge&logo=python&logoColor=c4b5fd)
+![C++](https://img.shields.io/badge/C++-1e1b4b?style=for-the-badge&logo=cplusplus&logoColor=c4b5fd)
+![C](https://img.shields.io/badge/C-1e1b4b?style=for-the-badge&logo=c&logoColor=c4b5fd)
+![Java](https://img.shields.io/badge/Java-1e1b4b?style=for-the-badge&logo=openjdk&logoColor=c4b5fd)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b4b?style=for-the-badge&logo=javascript&logoColor=c4b5fd)
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-20232A?style=for-the-badge&logo=cplusplus&logoColor=a78bfa)
-![C](https://img.shields.io/badge/C-20232A?style=for-the-badge&logo=c&logoColor=a78bfa)
-![Java](https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=a78bfa)
-![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=a78bfa)
+![TensorFlow](https://img.shields.io/badge/CNN_Deep_Learning-1e1b4b?style=for-the-badge&logo=tensorflow&logoColor=c4b5fd)
+![scikit-learn](https://img.shields.io/badge/Machine_Learning-1e1b4b?style=for-the-badge&logo=scikit-learn&logoColor=c4b5fd)
+![NLP](https://img.shields.io/badge/NLP-1e1b4b?style=for-the-badge&logoColor=c4b5fd)
+![Multimodal](https://img.shields.io/badge/Multimodal_AI-1e1b4b?style=for-the-badge&logoColor=c4b5fd)
+![OCR](https://img.shields.io/badge/OCR-1e1b4b?style=for-the-badge&logoColor=c4b5fd)
+![Gemini](https://img.shields.io/badge/Gemini_API-1e1b4b?style=for-the-badge&logo=googlegemini&logoColor=c4b5fd)
 
-### 🌐 Web · Tools
-![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=a78bfa)
-![Django](https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=a78bfa)
-![HTML](https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=a78bfa)
-![CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=a78bfa)
-![Tkinter](https://img.shields.io/badge/Tkinter-20232A?style=for-the-badge&logoColor=a78bfa)
-![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=a78bfa)
-![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=a78bfa)
-![VS Code](https://img.shields.io/badge/VS%20Code-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=a78bfa)
+![Flask](https://img.shields.io/badge/Flask-1e1b4b?style=for-the-badge&logo=flask&logoColor=c4b5fd)
+![Django](https://img.shields.io/badge/Django-1e1b4b?style=for-the-badge&logo=django&logoColor=c4b5fd)
+![HTML](https://img.shields.io/badge/HTML-1e1b4b?style=for-the-badge&logo=html5&logoColor=c4b5fd)
+![CSS](https://img.shields.io/badge/CSS-1e1b4b?style=for-the-badge&logo=css3&logoColor=c4b5fd)
+![Tkinter](https://img.shields.io/badge/Tkinter-1e1b4b?style=for-the-badge&logoColor=c4b5fd)
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logoColor=a78bfa)
-![MySQL](https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=a78bfa)
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=a78bfa)
+![MySQL](https://img.shields.io/badge/MySQL-1e1b4b?style=for-the-badge&logo=mysql&logoColor=c4b5fd)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1b4b?style=for-the-badge&logo=mongodb&logoColor=c4b5fd)
+![Git](https://img.shields.io/badge/Git-1e1b4b?style=for-the-badge&logo=git&logoColor=c4b5fd)
+![GitHub](https://img.shields.io/badge/GitHub-1e1b4b?style=for-the-badge&logo=github&logoColor=c4b5fd)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1b4b?style=for-the-badge&logo=visualstudiocode&logoColor=c4b5fd)
 
 </div>
 
-**🧠 Core fundamentals:** Data Structures & Algorithms · OOP · Operating Systems · Computer Networks · DBMS · SDLC · MVC
+<div align="center">
+
+🧠 **Core stuff:** DSA · OOP · Operating Systems · Computer Networks · DBMS · SDLC · MVC
+
+</div>
 
 ---
 
-## 🏆 Level History
+## 🛤️ THE JOURNEY SO FAR
 
-| 🗓️ When | 🎯 What |
-|---|---|
-| **2025 – 2027** | 🎓 M.Tech CSE, Pondicherry University *(in progress)* |
-| **Jun 2024** | 🏅 HackerRank Software Engineer Intern Certification |
-| **2020 – 2024** | 🎓 B.Tech CSE, University College of Engineering, Kariavattom |
-| **Aug – Nov 2023** | 💼 Machine Learning Intern at **iNeuron**: built a Book Recommendation System |
-| **Smart India Hackathon** | 🥇 Medal + Best Performer certificate (team, internal round) |
+```mermaid
+flowchart LR
+    A["🎓 2020<br/>B.Tech CSE<br/>UCE Kariavattom"] --> B["🥇 SIH<br/>Medal + Best<br/>Performer"]
+    B --> C["💼 Aug–Nov 2023<br/>ML Intern<br/>iNeuron"]
+    C --> D["🏅 Jun 2024<br/>HackerRank<br/>SWE Intern Cert"]
+    D --> E["🎓 2025<br/>M.Tech CSE<br/>Pondicherry Univ"]
+    E --> F["🎥 Now<br/>MalHate-MM"]
+    style A fill:#312e81,color:#fff,stroke:#a78bfa
+    style B fill:#312e81,color:#fff,stroke:#a78bfa
+    style C fill:#4c1d95,color:#fff,stroke:#a78bfa
+    style D fill:#4c1d95,color:#fff,stroke:#a78bfa
+    style E fill:#6d28d9,color:#fff,stroke:#c4b5fd
+    style F fill:#7c3aed,color:#fff,stroke:#ddd6fe
+```
+
+<details>
+<summary><b>💼 What I did at iNeuron</b></summary>
+
+<br/>
+
+Machine Learning Intern (Aug – Nov 2023). Built a **Book Recommendation System** using machine learning algorithms.
+
+</details>
+
+<details>
+<summary><b>🛠️ Workshops I've leveled up in</b></summary>
+
+<br/>
+
+- 🔍 Cyber Forensics (NSS UCEK with CDAC)
+- 📊 Data Science (NIT Calicut, 2023)
+- ☁️ Cloud Computing (Mar Athanasius College of Engineering)
+- ⚛️ Web Development with React (Alchemy IEDC, College of Engineering Attingal)
+
+</details>
+
+<details>
+<summary><b>🤝 Beyond code</b></summary>
+
+<br/>
+
+Member of the **National Service Scheme (NSS)**, doing community service activities.
+
+</details>
 
 ---
 
-## 🎒 Side Items
-
-- 🛠️ **Workshops:** Cyber Forensics (NSS UCEK with CDAC) · Data Science (NIT Calicut, 2023) · Cloud Computing (Mar Athanasius College of Engineering) · Web Development with React (Alchemy IEDC, CE Attingal)
-- 🤝 **Community:** Member of the National Service Scheme (NSS)
-
----
-
-## 📊 Stats
+## 🏆 TROPHY SHELF
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=balananujith&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
+
+<br/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=balananujith&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&ring_color=a78bfa"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balananujith&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=balananujith&theme=midnight-purple&hide_border=true&background=0d0d1a&stroke=6d28d9&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=6b7280"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=balananujith&bg_color=0d0d1a&color=a78bfa&line=6d28d9&point=f59e0b&hide_border=true&area=true&area_color=6d28d9"/>
+
 </div>
 
 ---
 
-## 💬 Let's build something
+## 📡 SIGNAL ME
 
-I'm looking for software and AI roles where I can ship reliable, well-tested work and keep learning in a fast-moving team. If you've got a problem, a collab idea, or just want to talk multimodal AI, say hi. 👋
+I'm looking for software and AI roles where I can ship reliable, well-tested work and keep learning in a fast team. If you've got a problem, a collab idea, or just want to nerd out on multimodal AI, ping me. 👋
 
 <div align="center">
 
-[![Email me](https://img.shields.io/badge/📧%20Email%20me-1e1b4b?style=for-the-badge)](mailto:balananujith@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-1e1b4b?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/balananujith)
+<a href="mailto:balananujith@gmail.com"><img src="https://img.shields.io/badge/📧_Email_me-7c3aed?style=for-the-badge&labelColor=1e1b4b"/></a>
+<a href="https://linkedin.com/in/balananujith"><img src="https://img.shields.io/badge/LinkedIn-connect-7c3aed?style=for-the-badge&logo=linkedin&labelColor=1e1b4b"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:7c3aed&height=120&section=footer&text=When%20the%20AI%20isn't%20sure%2C%20ask%20a%20human.&fontSize=16&fontColor=e9d5ff&fontAlignY=65&animation=twinkling"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=When+the+AI+isn't+sure%2C+ask+a+human.;Thanks+for+scrolling+all+the+way+down.+%F0%9F%92%9C" alt="footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:6d28d9,100:a78bfa&height=130&section=footer&animation=twinkling"/>
 
 </div>
